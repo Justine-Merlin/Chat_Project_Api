@@ -1,0 +1,13 @@
+Commandes :
+
+Lancer le serveur Symfony :
+    symfony server:start
+
+Installation API Platform :
+    composer require api
+
+Installation de maker-bundle :
+    composer require symfony/maker-bundle --dev
+
+Installation orm-fixtures :
+    composer require orm-fixtures --dev
